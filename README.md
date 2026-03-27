@@ -57,6 +57,12 @@ Modern AI agent systems achieve complex tasks by having multiple specialized age
 - [camel-ai/camel](https://github.com/camel-ai/camel) — Communicative agent framework
 - [fetchai/uAgents](https://github.com/fetchai/uAgents) — Lightweight agent framework
 
-## License
+## Author
 
-MIT
+Dhiraj Singh
+
+## Usage Notice
+
+This repository is shared publicly for learning and reference.
+It is made available for everyone through [VAIU Research Lab](https://vaiu.ai/Research_Lab).
+For reuse, redistribution, adaptation, or collaboration, contact Dhiraj Singh / [VAIU Research Lab](https://vaiu.ai/Research_Lab).
